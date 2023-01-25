@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.f6e9d026.chunk.css",
+    "main.js": "/profile/static/js/main.a0f4fe2d.chunk.js",
+    "main.js.map": "/profile/static/js/main.a0f4fe2d.chunk.js.map",
+    "runtime-main.js": "/profile/static/js/runtime-main.4abd8fdc.js",
+    "runtime-main.js.map": "/profile/static/js/runtime-main.4abd8fdc.js.map",
+    "static/js/2.880b9f4a.chunk.js": "/profile/static/js/2.880b9f4a.chunk.js",
+    "static/js/2.880b9f4a.chunk.js.map": "/profile/static/js/2.880b9f4a.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/profile/static/css/3.df879eac.chunk.css",
+    "static/js/3.708b81a0.chunk.js": "/profile/static/js/3.708b81a0.chunk.js",
+    "static/js/3.708b81a0.chunk.js.map": "/profile/static/js/3.708b81a0.chunk.js.map",
+    "static/css/4.d7ceb645.chunk.css": "/profile/static/css/4.d7ceb645.chunk.css",
+    "static/js/4.2a29a5f0.chunk.js": "/profile/static/js/4.2a29a5f0.chunk.js",
+    "static/js/4.2a29a5f0.chunk.js.map": "/profile/static/js/4.2a29a5f0.chunk.js.map",
+    "index.html": "/profile/index.html",
+    "precache-manifest.bc9ff4dd3a7021d3dc0627119d654198.js": "/profile/precache-manifest.bc9ff4dd3a7021d3dc0627119d654198.js",
+    "service-worker.js": "/profile/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/profile/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.d7ceb645.chunk.css.map": "/profile/static/css/4.d7ceb645.chunk.css.map",
+    "static/css/main.f6e9d026.chunk.css.map": "/profile/static/css/main.f6e9d026.chunk.css.map",
+    "static/js/2.880b9f4a.chunk.js.LICENSE.txt": "/profile/static/js/2.880b9f4a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/profile/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMailDark.svg": "/profile/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/profile/static/media/developerActivity.59389695.svg",
+    "static/media/excellence_1.jpeg": "/profile/static/media/excellence_1.a9a5a555.jpeg",
+    "static/media/excellence_2.jpeg": "/profile/static/media/excellence_2.d2c119da.jpeg",
+    "static/media/kdkLogo.png": "/profile/static/media/kdkLogo.0c8a3c3d.png",
+    "static/media/manOnTable.svg": "/profile/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/profile/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/profile/static/media/talksCardBack.13780cdd.svg",
+    "static/media/v_award.jpeg": "/profile/static/media/v_award.5b51ac56.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4abd8fdc.js",
+    "static/js/2.880b9f4a.chunk.js",
+    "static/css/main.f6e9d026.chunk.css",
+    "static/js/main.a0f4fe2d.chunk.js"
+  ]
+}
