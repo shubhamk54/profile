@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7428e39da492a194003d0cc28a8bf3d6",
+    "revision": "f91d9b71e14cb93b0e7683e397a33ca0",
     "url": "/profile/index.html"
   },
   {
-    "revision": "b5efc42b7784f76cd6b0",
+    "revision": "22cbb018029f71976d8e",
     "url": "/profile/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "19d5a043fb0dc35fe184",
+    "revision": "292bc00dc8b576a28201",
     "url": "/profile/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "63788d59fe1704804497",
+    "revision": "e5e8e78c9581a13a13f5",
     "url": "/profile/static/css/main.f6e9d026.chunk.css"
   },
   {
-    "revision": "e6f5218bc812b803b814",
-    "url": "/profile/static/js/2.880b9f4a.chunk.js"
+    "revision": "d90903023bd59e49ccab",
+    "url": "/profile/static/js/2.fa24d836.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/profile/static/js/2.880b9f4a.chunk.js.LICENSE.txt"
+    "url": "/profile/static/js/2.fa24d836.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5efc42b7784f76cd6b0",
-    "url": "/profile/static/js/3.708b81a0.chunk.js"
+    "revision": "22cbb018029f71976d8e",
+    "url": "/profile/static/js/3.912ebb73.chunk.js"
   },
   {
-    "revision": "19d5a043fb0dc35fe184",
-    "url": "/profile/static/js/4.2a29a5f0.chunk.js"
+    "revision": "292bc00dc8b576a28201",
+    "url": "/profile/static/js/4.be4fa465.chunk.js"
   },
   {
-    "revision": "63788d59fe1704804497",
-    "url": "/profile/static/js/main.757a89ae.chunk.js"
+    "revision": "e5e8e78c9581a13a13f5",
+    "url": "/profile/static/js/main.1ce2b386.chunk.js"
   },
   {
-    "revision": "a73bcbc709460a146403",
-    "url": "/profile/static/js/runtime-main.4abd8fdc.js"
+    "revision": "06daf139c49308375e5f",
+    "url": "/profile/static/js/runtime-main.eb2efb58.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -64,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/profile/static/media/excellence_2.d2c119da.jpeg"
   },
   {
+    "revision": "2867882c139007ae5152203fffcb1ca6",
+    "url": "/profile/static/media/hilabs_gold_star.2867882c.png"
+  },
+  {
     "revision": "0c8a3c3daba3c6eabfe8807a616aea84",
     "url": "/profile/static/media/kdkLogo.0c8a3c3d.png"
   },
@@ -74,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/profile/static/media/skill.34409398.svg"
+  },
+  {
+    "revision": "2de04cb865e0693f45ccfc77231514f3",
+    "url": "/profile/static/media/special_recognition.2de04cb8.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
